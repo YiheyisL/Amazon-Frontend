@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <>
       <div className={classes.btn_button}>
-        <a href="">
+        <a href="#">
           <p>Back to Top</p>
         </a>
       </div>
@@ -18,22 +18,22 @@ const Footer = () => {
               <h3>Get to Know Us</h3>
               <ul>
                 <li>
-                  <a href="">Careers</a>
+                  <a href="#">Careers</a>
                 </li>
                 <li>
-                  <a href="">Blog</a>
+                  <a href="#">Blog</a>
                 </li>
                 <li>
-                  <a href="">About Amazon</a>
+                  <a href="#">About Amazon</a>
                 </li>
                 <li>
-                  <a href="">Investor Relation</a>
+                  <a href="#">Investor Relation</a>
                 </li>
                 <li>
-                  <a href="">Amazon Devices</a>
+                  <a href="#">Amazon Devices</a>
                 </li>
                 <li>
-                  <a href="">Amazon Science</a>
+                  <a href="#;">Amazon Science</a>
                 </li>
               </ul>
             </div>
@@ -42,28 +42,28 @@ const Footer = () => {
               <h3>Make Money with Us</h3>
               <ul>
                 <li>
-                  <a href="">Sell products on Amazon</a>
+                  <a href="#">Sell products on Amazon</a>
                 </li>
                 <li>
-                  <a href="">Sell on Amazon Business</a>
+                  <a href="#">Sell on Amazon Business</a>
                 </li>
                 <li>
-                  <a href="">Sell apps on Amazon</a>
+                  <a href="#">Sell apps on Amazon</a>
                 </li>
                 <li>
-                  <a href="">Become an Affiliate</a>
+                  <a href="#">Become an Affiliate</a>
                 </li>
                 <li>
-                  <a href="">Advertise Your Products</a>
+                  <a href="#">Advertise Your Products</a>
                 </li>
                 <li>
-                  <a href="">Self-Publish with Us</a>
+                  <a href="#">Self-Publish with Us</a>
                 </li>
                 <li>
-                  <a href="">Host an Amazon Hub</a>
+                  <a href="#">Host an Amazon Hub</a>
                 </li>
                 <li>
-                  <a href="">
+                  <a href="#">
                     See More Make Money <br /> with Us
                   </a>
                 </li>
@@ -74,16 +74,16 @@ const Footer = () => {
               <h3>Amazon Payment Products</h3>
               <ul>
                 <li>
-                  <a href="">Amazon Business Card</a>
+                  <a href="#">Amazon Business Card</a>
                 </li>
                 <li>
-                  <a href="">Shop with Points</a>
+                  <a href="#">Shop with Points</a>
                 </li>
                 <li>
-                  <a href="">Reload Your Balance</a>
+                  <a href="#">Reload Your Balance</a>
                 </li>
                 <li>
-                  <a href="">Amazon Currency Converter</a>
+                  <a href="#">Amazon Currency Converter</a>
                 </li>
               </ul>
             </div>
@@ -92,28 +92,28 @@ const Footer = () => {
               <h3>Let Us Help You</h3>
               <ul>
                 <li>
-                  <a href="">Amazon and COVID-19</a>
+                  <a href="#">Amazon and COVID-19</a>
                 </li>
                 <li>
-                  <a href="">Your Account</a>
+                  <a href="#">Your Account</a>
                 </li>
                 <li>
-                  <a href="">Your Orders</a>
+                  <a href="#">Your Orders</a>
                 </li>
                 <li>
-                  <a href="">Shipping Rates & Policies</a>
+                  <a href="#">Shipping Rates & Policies</a>
                 </li>
                 <li>
-                  <a href="">Returns & Replacements</a>
+                  <a href="#">Returns & Replacements</a>
                 </li>
                 <li>
-                  <a href="">Manage Your Content and Devices</a>
+                  <a href="#">Manage Your Content and Devices</a>
                 </li>
                 <li>
-                  <a href="">Amazon Assistant</a>
+                  <a href="#">Amazon Assistant</a>
                 </li>
                 <li>
-                  <a href="">Help</a>
+                  <a href="#">Help</a>
                 </li>
               </ul>
             </div>
@@ -121,19 +121,19 @@ const Footer = () => {
         </div>
 
         <div className={classes.ft_footer}>
-          <a href="" className={classes.footer_logo}>
+          <a href="#" className={classes.footer_logo}>
             <img
               src="https://pngimg.com/uploads/amazon/amazon_PNG11.png"
               alt="amazon logo"
             />
           </a>
-          <a href="">
+          <a href="#">
             <TbWorld /> <p>English</p>
           </a>
-          <a href="">
+          <a href="#">
             <h5>$ USD-U.S. Dollar</h5>
           </a>
-          <a href="" className={classes.footer_language}>
+          <a href="#" className={classes.footer_language}>
             <img
               src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1024px-Flag_of_the_United_States.svg.png"
               alt="Language"
